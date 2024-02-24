@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Chào bé Mỹ pitbull !',
+    introTitle: 'Chào bé Khánh Yêu  !',
     introDesc: `Anh muốn nói với em này nè `,
     btnIntro: 'Em đây',
     title: 'Có phải em đã yêu anh từ cái nhìn đầu không 😙',
@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'anh biết mò, yêu emmmmm 😘😘',
     messDesc: 'Tối nay 7h mình cùng call nhá .',
     btnAccept: 'Okie lun <3',
-    messLink: 'https://www.facebook.com/kayn.quang1/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/danhhoanghieunghi69'
 }
